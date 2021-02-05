@@ -10,4 +10,4 @@
 python3 poc.py http://127.0.0.1
 ```
 
-![1](D:\Code\python\74CMS\1.gif)
+![1](1.gif)
